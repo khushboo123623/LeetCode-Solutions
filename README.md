@@ -11,6 +11,7 @@
 | [0184-department-highest-salary](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [1683-invalid-tweets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 ## Stack
 |  |
 | ------- |
