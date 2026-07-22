@@ -12,6 +12,7 @@
 | [0185-department-top-three-salaries](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [1683-invalid-tweets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Stack
 |  |
 | ------- |
