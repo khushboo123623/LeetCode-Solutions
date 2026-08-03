@@ -10,6 +10,7 @@
 | [0183-customers-who-never-order](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [1683-invalid-tweets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
