@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
