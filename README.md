@@ -14,6 +14,7 @@
 | [0196-delete-duplicate-emails](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1683-invalid-tweets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Stack
