@@ -57,6 +57,7 @@
 | [0503-next-greater-element-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
