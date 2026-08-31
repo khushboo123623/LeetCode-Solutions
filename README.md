@@ -53,6 +53,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
