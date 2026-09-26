@@ -80,6 +80,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -159,6 +160,7 @@
 | [0875-koko-eating-bananas](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
@@ -195,4 +197,5 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
