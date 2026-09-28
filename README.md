@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -198,6 +200,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
