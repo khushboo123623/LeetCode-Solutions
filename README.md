@@ -73,6 +73,7 @@
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -157,6 +159,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -213,11 +216,13 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Data Stream
 |  |
