@@ -54,6 +54,7 @@
 | [0076-minimum-window-substring](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -131,6 +132,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
