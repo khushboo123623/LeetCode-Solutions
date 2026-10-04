@@ -55,6 +55,7 @@
 | [0187-repeated-dna-sequences](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -133,6 +134,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
