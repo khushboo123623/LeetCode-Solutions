@@ -22,6 +22,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -69,6 +70,7 @@
 | [0016-3sum-closest](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
