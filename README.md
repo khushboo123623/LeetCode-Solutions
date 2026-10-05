@@ -24,6 +24,7 @@
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@
 | [0020-valid-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
