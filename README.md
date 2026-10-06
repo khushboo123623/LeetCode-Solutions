@@ -32,6 +32,7 @@
 | [0503-next-greater-element-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -63,6 +64,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
