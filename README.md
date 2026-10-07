@@ -36,6 +36,7 @@
 | [0901-online-stock-span](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -67,6 +68,7 @@
 | [0680-valid-palindrome-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
 | ------- |
