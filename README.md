@@ -55,6 +55,7 @@
 | [0225-implement-stack-using-queues](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -232,6 +235,7 @@
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -299,4 +303,5 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
