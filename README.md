@@ -231,6 +231,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -293,4 +295,8 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
