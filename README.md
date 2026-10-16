@@ -65,6 +65,7 @@
 | [0076-minimum-window-substring](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -167,6 +168,7 @@
 | [0032-longest-valid-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -233,6 +235,7 @@
 | [0069-sqrtx](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0523-continuous-subarray-sum](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -298,10 +301,16 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
