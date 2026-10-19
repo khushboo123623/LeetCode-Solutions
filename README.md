@@ -298,6 +298,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Bracket Sequences
 |  |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
