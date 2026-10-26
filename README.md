@@ -301,6 +301,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/khushboo123623/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Bracket Sequences
 |  |
 | ------- |
